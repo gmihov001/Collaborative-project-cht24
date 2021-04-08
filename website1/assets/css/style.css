@@ -2,6 +2,9 @@ body{
     background: white;
 }
 
+body, html {
+    height: 100%;
+}
 
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://wallpapercave.com/wp/wp2762468.jpg");
